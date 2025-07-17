@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313"
 languageCode = "en-us"
-title = "Hugo Profile"
+title = "Matt Jones Technology"
 theme = "hugo-profile"
 
 [outputs]
@@ -38,7 +38,7 @@ enableRobotsTXT = true
     weight = 2
 
 [params]
-  title = "Hugo Profile"
+  title = "Matt Jones Technology"
   description = "Text about my cool site"
   favicon = "/fav.png"
   useBootstrapCDN = false
@@ -57,7 +57,7 @@ enableRobotsTXT = true
 
   [params.navbar]
     align = "ms-auto"
-    brandName = "Hugo Profile"
+    brandName = "Matt Jones Technology"
     disableSearch = false
     [params.navbar.stickyNavBar]
       enable = true
@@ -74,9 +74,9 @@ enableRobotsTXT = true
   [params.hero]
     enable = true
     intro = "Hi, my name is"
-    title = "Isabella."
-    subtitle = "I build things for the web"
-    content = "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    title = "Matt."
+    subtitle = "I build enterprise architecture teams"
+    content = "I build enterprise architecture teams that break down silos and bridge the gap between business and technology. My passion is helping organizations align strategy with execution, delivering solutions that are both practical and future-ready."
     image = "/images/hero.svg"
     [params.hero.bottomImage]
       enable = true

@@ -2,7 +2,9 @@
 public/
 resources/
 .hugo_build.lock
+hugo_stats.json
 
 # Other
 .DS_Store
+Thumbs.db
 *.log
