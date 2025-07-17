@@ -40,7 +40,7 @@ enableRobotsTXT = true
 [params]
   title = "Matt Jones Technology"
   description = "Text about my cool site"
-  favicon = "/fav.png"
+  favicon = "/images/logo.svg"
   useBootstrapCDN = false
   mathjax = false
   animate = true
@@ -89,21 +89,28 @@ enableRobotsTXT = true
     [params.hero.socialLinks]
       [[params.hero.socialLinks.fontAwesomeIcons]]
         icon = "fab fa-github"
-        url = "https://example.com"
+        url = "https://github.com/mattjonesorg"
       [[params.hero.socialLinks.fontAwesomeIcons]]
-        icon = "fab fa-x-twitter"
-        url = "https://example.com"
+        icon = "fab fa-linkedin"
+        url = "https://www.linkedin.com/in/mattjonestechnology/"
+      [[params.hero.socialLinks.fontAwesomeIcons]]
+        icon = "fab fa-facebook"
+        url = "https://www.facebook.com/mattjones.org/"
       [[params.hero.socialLinks.customIcons]]
-        icon = "/fav.png"
-        url = "https://example.com"
+        icon = "/images/logo.svg"
+        url = "https://mattjones.technology/"
 
   [params.about]
     enable = true
     title = "About Me"
     image = "/images/me.png"
-    content = """I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.\n\nI am currently working on a project that will be used to help people find the best way to get around the city."""
+    content = """Great architecture starts with great conversations. I use techniques like Event Storming to get business and technology teams in the same room—mapping out processes, uncovering hidden complexities, and building a shared understanding before a single line of code is written. This collaborative approach eliminates confusion early, reduces rework, and sets projects on a path to success.
+
+Beyond individual projects, I help organizations establish a clear technology strategy that stays aligned with business goals. Whether it’s modernizing legacy systems, adopting cloud services, or streamlining operations, my focus is always the same: making sure the technology serves the business—not the other way around.
+
+Good architecture isn’t just about diagrams—it’s about building a foundation where teams can move faster, with less friction, and deliver real business value."""
     [params.about.skills]
-      enable = true
+      enable = false
       title = "Here are a few technologies I've been working with recently:"
       items = ["HTML", "CSS", "JavaScript", "React", "Node", "Express"]
 
