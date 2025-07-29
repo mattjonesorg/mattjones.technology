@@ -117,7 +117,7 @@ Good architecture isn’t just about diagrams—it’s about building a foundati
     title = "Education and Awards"
 
   [params.achievements]
-    enable = true
+    enable = false
     [[params.achievements.items]]
       title = "Google kickstart runner"
       content = "I solved all problems with optimal solution."
