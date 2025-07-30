@@ -111,10 +111,70 @@ Good architecture isn’t just about diagrams—it’s about building a foundati
 
   [params.experience]
     enable = true
+    [[params.experience.items]]
+      job = "Director, IT Product Development / Head of Platform Engineering"
+      company = "Fitch Solutions"
+      companyUrl = "www.fitchsolutions.com"
+      date = "2015"
+      content = """<ul>
+       	<li>Building awesome self-sufficient teams</li>
+       	<li>Hiring, managing and mentoring some amazing developers and tech leads</li>
+       	<li>Selling the vision of a strategic RESTful API based platform to internal stakeholders</li>
+       	<li>Building a Microservices based architecture that is deployed using Docker on Kubernetes.</li>
+       	<li>Our next step will be moving our clusters into Amazon Web Services and implementing an event driven architecture with Kinesis, Lambda, and Amazon Elasticsearch!</li>
+      </ul>"""
+    [[params.experience.items]]
+      job = "Sr. Director of Innovation"
+      company = "Harrison Street Software"
+      date = "APR 2014 - NOV 2014"
+      content = "Designed, architected, and building an employee goal management and performance review solution on Google App Engine with a Java backend for the REST API, and a Dart language Single Page Application (SPA) using Polymer and Material Design for the front end."
+    [[params.experience.items]]
+      job = "Sr. Director of Software Engineering"
+      company = "SpringCM"
+      companyUrl = "www.springcm.com"
+      date = "JAN 2007 - APR 2014"
+      content = "Served in various roles from UI Developer to Sr. Director of Software Engineering to build an enterprise class document management and business process automation solution."
+    [[params.experience.items]]
+      job = "Owner"
+      company = "Matt Jones Photography"
+      date = "DEC 2003 - DEC 2006"
+      content = "A lot of hard work, but ultimately, I spent too much time on the web application to sell the photos and not enough time on marketing. This experience has made me a better engineer and liaison to the business!"
+    [[params.experience.items]]
+      job = "Software Engineer"
+      company = "Various"
+      date = "SEP 1997 - NOV 2003"
+      content = "I spent these years during the dot com boom and bust cutting my teeth on C++, memory management, pointers, and various other experiences. See the PDF resume for details."
+    [[params.experience.items]]
+      job = "Corpsmember"
+      company = "Americorps NCCC"
+      companyUrl = "www.nationalservice.gov/programs/americorps/americorps-nccc"
+      date = "SEP 1995 - JUL 1996"
+      content = """Almost 20 years ago, I took this pledge before commencing on 1750 hours of community service. I still Get Things Done.
+    <blockquote>I will get things done for America - to make our people safer, smarter, and healthier. I will bring Americans together to strengthen our communities. Faced with apathy, I will take action. Faced with conflict, I will seek common ground. Faced with adversity, I will persevere. I will carry this commitment with me this year and beyond.I am an AmeriCorps member, and I will get things done.</blockquote>
+    &nbsp;"""
 
   [params.education]
     enable = true
     title = "Education and Awards"
+    [[params.education.items]]
+      title = "Certified Scrum Master (CSM)"
+      [params.education.items.school]
+        name = "Scrum Alliance"
+      date = "2011"
+      content = "Scrum, Kanban, Agile. Let's just get it done without Gantt charts. They even gave me a [certificate](/wp-content/uploads/2014/09/Matt-Jones-ScrumAlliance_CSM_Certificate.pdf)."
+    [[params.education.items]]
+      title = "B.A. in Computer Science"
+      [params.education.items.school]
+        name = "Western Oregon University"
+        url = "http.www.wou.edu/cs/"
+      date = "1998"
+      content = "I thought I was going to be a teacher. Computer Science was fun so I changed majors. [WOU](http.www.wou.edu/cs/) has a pretty awesome Computer Science program that really prepared me for my career."
+    [[params.education.items]]
+      title = "Eagle Scout"
+      [params.education.items.school]
+        name = "Boy Scouts of America"
+      date = "1993"
+      content = "I am an Eagle Scout. I believe this experience was foundational to my success in life."
 
   [params.achievements]
     enable = false
