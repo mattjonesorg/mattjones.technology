@@ -157,11 +157,11 @@ Good architecture isn’t just about diagrams—it’s about building a foundati
     enable = true
     title = "Education and Awards"
     [[params.education.items]]
-      title = "Certified Scrum Master (CSM)"
+      title = "Certificate for Diaconal Studies"
       [params.education.items.school]
-        name = "Scrum Alliance"
-      date = "2011"
-      content = "Scrum, Kanban, Agile. Let's just get it done without Gantt charts. They even gave me a [certificate](/wp-content/uploads/2014/09/Matt-Jones-ScrumAlliance_CSM_Certificate.pdf)."
+        name = "University of St. Mary of the Lake"
+      date = "May 2020"
+      content = "Completion of a 4 year formation program in preparation to serve the Church as a deacon."
     [[params.education.items]]
       title = "B.A. in Computer Science"
       [params.education.items.school]
