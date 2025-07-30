@@ -72,7 +72,7 @@ theme = "hugo-profile"
     title = "Matt."
     subtitle = "I build enterprise architecture teams"
     content = "I build enterprise architecture teams that break down silos and bridge the gap between business and technology. My passion is helping organizations align strategy with execution, delivering solutions that are both practical and future-ready."
-    image = "/images/hero.svg"
+    image = "/images/hero.png"
     [params.hero.bottomImage]
       enable = true
     [params.hero.button]
