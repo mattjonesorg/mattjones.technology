@@ -98,7 +98,7 @@ theme = "hugo-profile"
   [params.about]
     enable = true
     title = "About Me"
-    image = "/images/me.png"
+    image = "/images/family.png"
     content = """Great architecture starts with great conversations. I use techniques like Event Storming to get business and technology teams in the same room—mapping out processes, uncovering hidden complexities, and building a shared understanding before a single line of code is written. This collaborative approach eliminates confusion early, reduces rework, and sets projects on a path to success.
 
 Beyond individual projects, I help organizations establish a clear technology strategy that stays aligned with business goals. Whether it’s modernizing legacy systems, adopting cloud services, or streamlining operations, my focus is always the same: making sure the technology serves the business—not the other way around.
