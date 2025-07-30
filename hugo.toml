@@ -166,7 +166,7 @@ Good architecture isn’t just about diagrams—it’s about building a foundati
       title = "B.A. in Computer Science"
       [params.education.items.school]
         name = "Western Oregon University"
-        url = "http.www.wou.edu/cs/"
+        url = "https://www.wou.edu/cs/"
       date = "1998"
       content = "I thought I was going to be a teacher. Computer Science was fun so I changed majors. [WOU](http.www.wou.edu/cs/) has a pretty awesome Computer Science program that really prepared me for my career."
     [[params.education.items]]
