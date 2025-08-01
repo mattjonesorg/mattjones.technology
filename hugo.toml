@@ -116,13 +116,7 @@ Good architecture isn’t just about diagrams—it’s about building a foundati
       company = "Fitch Solutions"
       companyUrl = "www.fitchsolutions.com"
       date = "2015"
-      content = """<ul>
-       	<li>Building awesome self-sufficient teams</li>
-       	<li>Hiring, managing and mentoring some amazing developers and tech leads</li>
-       	<li>Selling the vision of a strategic RESTful API based platform to internal stakeholders</li>
-       	<li>Building a Microservices based architecture that is deployed using Docker on Kubernetes.</li>
-       	<li>Our next step will be moving our clusters into Amazon Web Services and implementing an event driven architecture with Kinesis, Lambda, and Amazon Elasticsearch!</li>
-      </ul>"""
+      content = "Building awesome self-sufficient teams. Hiring, managing and mentoring some amazing developers and tech leads. Selling the vision of a strategic RESTful API based platform to internal stakeholders. Building a Microservices based architecture that is deployed using Docker on Kubernetes. Our next step will be moving our clusters into Amazon Web Services and implementing an event driven architecture with Kinesis, Lambda, and Amazon Elasticsearch!"
     [[params.experience.items]]
       job = "Sr. Director of Innovation"
       company = "Harrison Street Software"
@@ -158,21 +152,18 @@ Good architecture isn’t just about diagrams—it’s about building a foundati
     title = "Education and Awards"
     [[params.education.items]]
       title = "Certificate for Diaconal Studies"
-      [params.education.items.school]
-        name = "University of St. Mary of the Lake"
-      date = "May 2020"
+      school = "University of St. Mary of the Lake"
+      date = "2025"
       content = "Completion of a 4 year formation program in preparation to serve the Church as a deacon."
     [[params.education.items]]
       title = "B.A. in Computer Science"
-      [params.education.items.school]
-        name = "Western Oregon University"
-        url = "https://www.wou.edu/cs/"
+      school = "Western Oregon University"
+      url = "https://www.wou.edu/cs/"
       date = "1998"
-      content = "I thought I was going to be a teacher. Computer Science was fun so I changed majors. [WOU](http.www.wou.edu/cs/) has a pretty awesome Computer Science program that really prepared me for my career."
+      content = "I thought I was going to be a teacher. Computer Science was fun so I changed majors. [WOU](https://www.wou.edu/cs/) has a pretty awesome Computer Science program that really prepared me for my career."
     [[params.education.items]]
       title = "Eagle Scout"
-      [params.education.items.school]
-        name = "Boy Scouts of America"
+      school = "Boy Scouts of America"
       date = "1993"
       content = "I am an Eagle Scout. I believe this experience was foundational to my success in life."
 
@@ -248,11 +239,10 @@ Good architecture isn’t just about diagrams—it’s about building a foundati
       enable = true
       disableFeaturedImage = false
     [params.footer.socialNetworks]
-      github = "https://github.com"
-      linkedin = "https://linkedin.com"
-      twitter = "https://twitter.com"
-      instagram = "https://instagram.com"
-      facebook = "https://facebook.com"
+      github = "https://github.com/mattjonesorg"
+      linkedin = "https://www.linkedin.com/in/mattjonestechnology/"
+      facebook = "https://www.facebook.com/mattjones.org/"
+      instagram = "https://www.instagram.com/mattjonesorg/"
 
   [params.listPages]
     disableFeaturedImage = false
