@@ -56,7 +56,7 @@ uglyURLs = true
     enableSeparator = false
     [params.navbar.menus]
       disableAbout = false
-      disableExperience = false
+      disableExperience = true
       disableEducation = false
       disableProjects = false
       disableAchievements = false
@@ -72,7 +72,7 @@ uglyURLs = true
     [params.hero.bottomImage]
       enable = true
     [params.hero.button]
-      enable = true
+      enable = false
       name = "Resume"
       url = "#"
       download = true
@@ -106,7 +106,7 @@ Good architecture isn’t just about diagrams—it’s about building a foundati
       items = ["HTML", "CSS", "JavaScript", "React", "Node", "Express"]
 
   [params.experience]
-    enable = true
+    enable = false
     [[params.experience.items]]
       job = "Director, IT Product Development / Head of Platform Engineering"
       company = "Fitch Solutions"
