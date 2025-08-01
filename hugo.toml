@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://mattjonesorg.github.io/mattjones.technology/"
 languageCode = "en-us"
 title = "Matt Jones Technology"
 theme = "hugo-profile"
