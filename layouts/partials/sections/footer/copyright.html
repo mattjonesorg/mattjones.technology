@@ -1,0 +1,9 @@
+{{/*
+  This overrides the theme's copyright partial to ensure the logo uses staticPath.
+*/}}
+<div class="footer-copyright text-center py-3">
+  {{ if or .Site.Params.navbar.brandLogo .Site.Params.favicon }}
+    <img alt="Footer logo" src="{{ .Site.Params.staticPath }}{{ .Site.Params.navbar.brandLogo | default .Site.Params.favicon }}" width="30" height="30" style="vertical-align:middle;">
+  {{ end }}
+  <span class="ms-2">&copy; {{ now.Year }} {{ .Site.Params.title | default .Site.Title }}</span>
+</div>
