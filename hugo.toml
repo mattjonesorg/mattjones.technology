@@ -39,6 +39,7 @@ theme = "hugo-profile"
   useBootstrapCDN = false
   mathjax = false
   animate = true
+  staticPath = "/mattjones.technology"
 
   [params.theme]
     # disableThemeToggle = true
