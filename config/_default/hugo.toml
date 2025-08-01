@@ -2,10 +2,8 @@ baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Matt Jones Technology"
 theme = "hugo-profile"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "RSS"]
+relativeURLs = true
+uglyURLs = true
 
 [services]
 #  [services.googleAnalytics]

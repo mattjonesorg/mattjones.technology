@@ -1,3 +1,5 @@
 baseURL = "https://mattjonesorg.github.io/mattjones.technology/"
+relativeURLs = false
+uglyURLs = false
 [params]
   staticPath = "/mattjones.technology"
