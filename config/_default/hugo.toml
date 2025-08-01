@@ -1,4 +1,4 @@
-baseURL = "https://mattjonesorg.github.io/mattjones.technology/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Matt Jones Technology"
 theme = "hugo-profile"
@@ -6,8 +6,6 @@ theme = "hugo-profile"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "RSS"]
-
-
 
 [services]
 #  [services.googleAnalytics]
@@ -30,7 +28,6 @@ theme = "hugo-profile"
     title = "Blog posts"
     url = "/blogs"
     weight = 1
-  
 
 [params]
   title = "Matt Jones Technology"
@@ -39,7 +36,7 @@ theme = "hugo-profile"
   useBootstrapCDN = false
   mathjax = false
   animate = true
-  staticPath = "/"
+  staticPath = ""
 
   [params.theme]
     # disableThemeToggle = true
