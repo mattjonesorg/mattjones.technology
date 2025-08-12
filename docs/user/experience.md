@@ -5,7 +5,7 @@ Experience entries live under `content/experience` and use YAML front matter wit
 | Field | Description |
 | ----- | ----------- |
 | `name` | Name of the employer or project. |
-| `url` | External link for additional information. |
+| `website` | External link for additional information. Include the protocol (`https://`). |
 | `position` | Job title or role. |
 | `duration` | Time period for the role (for example, `2015–2017`). |
 | `summary` | Short HTML or Markdown list of achievements. Use the `|` operator for multi-line content. |
