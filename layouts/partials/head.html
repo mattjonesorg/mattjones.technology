@@ -2,7 +2,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
-<link rel="icon" href="{{ .Site.Params.staticPath }}{{ .Site.Params.favicon | default "/fav.png" }}" type="image/gif">
+{{- $favicon := printf "%s%s" .Site.Params.staticPath (.Site.Params.favicon | default "/fav.png") -}}
+{{- $ext := path.Ext $favicon -}}
+{{- $type := "" -}}
+{{- if eq $ext ".svg" -}}
+  {{- $type = "image/svg+xml" -}}
+{{- else if eq $ext ".png" -}}
+  {{- $type = "image/png" -}}
+{{- else if eq $ext ".ico" -}}
+  {{- $type = "image/x-icon" -}}
+{{- else if eq $ext ".gif" -}}
+  {{- $type = "image/gif" -}}
+{{- end -}}
+<link rel="icon" href="{{ $favicon }}"{{ if $type }} type="{{ $type }}"{{ end }}>
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
