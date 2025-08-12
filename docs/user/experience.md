@@ -20,7 +20,7 @@ Entries are sorted by ascending `weight`. Give later items larger weights or lea
 You can preview the site locally to check how your experience entries render and sort:
 
 ```bash
-hugo server --config hugo.yaml
+hugo server
 ```
 
 Open `http://localhost:1313` in your browser to view the site. Hugo watches files and reloads automatically; add `-D` to include drafts or `--disableFastRender` to ensure all changes are rendered.
