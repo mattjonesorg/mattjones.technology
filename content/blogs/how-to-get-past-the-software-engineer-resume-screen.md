@@ -21,7 +21,7 @@ If you are working with a recruiter, they will typically earn around 20% of your
 
 ## Resumes
 
-Now that you've figured out which job to apply for, it's time to take a close look at your resume. Ask yourself if your resume demonstrates your abilities to do the job. I understand that before the resume gets to me, it is typically read by a computer to determine a potential match, but by the time it gets to a hiring manager who has a million other things to do, you really have about [six seconds to make an impression](http://thesixsecondresume.com/). I have a very short amount of time to evaluate whether I think you'd be a good fit. Here are some red flags for me:
+Now that you've figured out which job to apply for, it's time to take a close look at your resume. Ask yourself if your resume demonstrates your abilities to do the job. I understand that before the resume gets to me, it is typically read by a computer to determine a potential match, but by the time it gets to a hiring manager who has a million other things to do, you really have about [six seconds to make an impression](https://thesixsecondresume.com/). I have a very short amount of time to evaluate whether I think you'd be a good fit. Here are some red flags for me:
 
 *   The twelve page resume cannot be evaluated quickly. And in the long resume, it's probably easier to find reasons to reject a candidate than to recommend the next step.
 *   A half a page of accomplishments on a 3-month contract demonstrates that you aren't really sure what the most important points were or that you are overstating your role on the team.
