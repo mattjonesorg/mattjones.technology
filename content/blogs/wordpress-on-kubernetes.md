@@ -1,6 +1,7 @@
 ---
 title: "Wordpress on Kubernetes"
 date: 2016-01-23T17:23:44Z
+tags: ["WordPress", "Kubernetes", "Docker", "Hosting", "DevOps"]
 categories: ["Uncategorized"]
 ---
 

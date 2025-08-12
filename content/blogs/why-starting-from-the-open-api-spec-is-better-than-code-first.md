@@ -1,6 +1,7 @@
 ---
 title: "Why Starting from the Open API Spec is Better than Code-First"
 date: 2024-04-19T00:27:41Z
+tags: ["OpenAPI", "API Design", "Spec-first", "Microservices", "Software Development"]
 categories: ["Uncategorized"]
 ---
 
