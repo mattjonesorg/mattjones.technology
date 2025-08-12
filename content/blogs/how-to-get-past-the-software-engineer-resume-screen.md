@@ -1,7 +1,7 @@
 ---
 title: "How to Get Past the Software Engineer Resume Screen"
 date: 2016-02-20T08:29:59Z
-tags: ["Interviews", "Resumes"]
+tags: ["Interviews", "Resumes", "Hiring", "Career Advice"]
 categories: ["Hiring"]
 ---
 

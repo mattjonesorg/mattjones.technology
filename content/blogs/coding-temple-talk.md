@@ -1,6 +1,7 @@
 ---
 title: "Coding Temple Talk"
 date: 2016-04-01T09:23:07Z
+tags: ["Coding Bootcamp", "JavaScript", "AngularJS", "Hiring", "Public Speaking"]
 categories: ["Uncategorized"]
 ---
 

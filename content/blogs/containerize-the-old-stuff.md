@@ -1,6 +1,7 @@
 ---
 title: "Containerize the old stuff!"
 date: 2016-09-30T20:25:25Z
+tags: ["Docker", "Kubernetes", "Legacy Applications", "Containerization", "DevOps"]
 categories: ["Uncategorized"]
 ---
 

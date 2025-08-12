@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Interview Tips"
 date: 2019-02-22T17:36:49Z
-tags: ["Interviews"]
+tags: ["Kubernetes", "Interviews", "DevOps", "Job Tips"]
 categories: ["Uncategorized"]
 ---
 

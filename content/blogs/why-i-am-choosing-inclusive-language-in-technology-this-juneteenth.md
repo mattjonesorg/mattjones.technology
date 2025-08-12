@@ -1,6 +1,7 @@
 ---
 title: "Why I am choosing inclusive language in technology this Juneteenth, and how you can too!"
 date: 2021-06-17T20:48:37Z
+tags: ["Inclusive Language", "Diversity", "Juneteenth", "Terminology", "Equity"]
 categories: ["Uncategorized"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Work From Home Equipment List"
 date: 2023-01-08T21:28:27Z
+tags: ["Work From Home", "Home Office", "Equipment", "Remote Work", "Productivity"]
 categories: ["Uncategorized"]
 ---
 
