@@ -17,6 +17,6 @@ I've had this theory for a while of just containerizing the old stuff to reduce 
 *   The attack surface of a container is smaller than a VM.
 *   I can make changes locally and test them out without having to worry about breaking the fragile server.
 *   Healthchecks! As a cluster manager, Kubernetes automates nearly any task I previously would have done to restart a service.
-*   [TLS All The Things!](https://mattjones.technology/2016/09/04/tls-all-the-things/) -- Automated, free SSL certificate renewal. Need I say more?
+*   [TLS All The Things!](/blogs/tls-all-the-things/) -- Automated, free SSL certificate renewal. Need I say more?
 
 Docker and Kubernetes certainly support microservices, but there's still huge benefits for the monoliths to be containerized. All of my side projects are now running on this cluster. The next step is to test the theory professionally. If you have containerized a "[legacy](https://twitter.com/drewlesueur/status/767122443102097409)" application, please comment with your experiences!
