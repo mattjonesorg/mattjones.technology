@@ -44,3 +44,11 @@ hugo
 
 This writes the built site to the `public/` directory (ignored by git).
 
+## Documentation
+
+- [Developer Guide](docs/developer-guide.md)
+- [User Guides](docs/user-guides/)
+
+> **Reminder:** Use Codex for any future code or content edits.
+
+
