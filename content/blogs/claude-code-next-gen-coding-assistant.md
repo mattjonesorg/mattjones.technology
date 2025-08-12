@@ -3,7 +3,7 @@ title: "Claude Code: The Next Generation Developer Assistant"
 date: 2025-07-15T00:00:00Z
 tags: ["AI", "Developer Tools", "Productivity", "Claude", "AI Assistant", "Anthropic"]
 description: "Reflections on using Claude Code as a developer assistant for a month."
-image: "images/claude-code-productivity.png"
+image: "/images/claude-code-productivity.png"
 ---
 
 
