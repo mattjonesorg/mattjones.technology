@@ -1,10 +1,11 @@
 ---
 title: "Coding Temple Talk"
 date: 2016-04-01T09:23:07Z
+tags: ["Coding Bootcamp", "JavaScript", "AngularJS", "Hiring", "Public Speaking"]
 categories: ["Uncategorized"]
 ---
 
-I had a chance to give a talk for [Coding Temple](http://www.codingtemple.com/) last night touching on why learning Javascript is a good idea. I also touched a bit on AngularJS and gave a perspective of a hiring manager to the participants of the coding bootcamp.
+I had a chance to give a talk for [Coding Temple](https://www.codingtemple.com/) last night touching on why learning Javascript is a good idea. I also touched a bit on AngularJS and gave a perspective of a hiring manager to the participants of the coding bootcamp.
 
 Here are the slides:
 

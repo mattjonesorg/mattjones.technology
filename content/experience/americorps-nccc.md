@@ -1,6 +1,6 @@
 ---
 name: "Americorps NCCC"
-url: "www.nationalservice.gov/programs/americorps/americorps-nccc"
+website: "https://www.nationalservice.gov/programs/americorps/americorps-nccc"
 position: "Corpsmember"
 duration: "SEP 1995 - JUL 1996"
 summary: |

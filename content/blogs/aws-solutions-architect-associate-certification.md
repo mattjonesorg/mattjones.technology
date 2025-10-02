@@ -1,6 +1,7 @@
 ---
 title: "AWS Solutions Architect Associate Certification"
 date: 2021-12-21T05:46:18Z
+tags: ["AWS", "Cloud", "Certification", "Solutions Architect"]
 categories: ["Uncategorized"]
 ---
 

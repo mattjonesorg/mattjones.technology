@@ -24,6 +24,10 @@ git submodule update --init --recursive
 
 Hugo will render a "Page not found" home page if the theme's layouts are missing, which happens when the submodule hasn't been fetched.
 
+## Configuration
+
+Site settings live in the `config/` directory. The `_default` folder provides base values, and environment-specific overrides can be added as needed.
+
 ## Development
 
 Start a local development server:

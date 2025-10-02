@@ -1,6 +1,7 @@
 ---
 title: "Videos for Programming Merit Badge"
 date: 2021-02-15T16:30:04Z
+tags: ["Programming Merit Badge", "Scouting", "Education", "AWS Polly", "Wav2Lip", "Video"]
 categories: ["Uncategorized"]
 ---
 

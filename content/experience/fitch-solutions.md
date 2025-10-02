@@ -1,6 +1,6 @@
 ---
 name: "Fitch Solutions"
-url: "www.fitchsolutions.com"
+website: "https://www.fitchsolutions.com"
 position: "Director, IT Product Development / Head of Platform Engineering"
 duration: "2015"
 summary: |
