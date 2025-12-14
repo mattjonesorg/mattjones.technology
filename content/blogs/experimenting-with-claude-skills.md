@@ -94,9 +94,7 @@ This pattern—LLM as the interface, code as the engine—opens up possibilities
 
 ## The Joy of Learning
 
-What I find most satisfying about this project is how it represents the intersection of my two worlds. In my professional work, I'm constantly learning about AI tools and exploring how they can improve developer productivity. With Claude skills, I found a way to take that same curiosity and apply it outside of work.
-
-There's something genuinely fun about discovering that the tools I use to write code and solve technical problems can also simplify my preparation for ministry. This skill doesn't choose the words for me—that's the prayerful, creative work I want to be doing. It just handles the formatting so I can spend my time discerning the right invocations rather than wrestling with font sizes and page layouts.
+I spend my days working with AI tools and thinking about developer productivity. Building this skill let me apply that same work to something outside the office. The skill doesn't choose the words for me—that's the prayerful, creative work I want to be doing. It just handles the formatting so I can focus on discerning the right invocations rather than wrestling with font sizes.
 
 If you're a fellow deacon or liturgical minister, I'd encourage you to give this skill a try. The [Catholic Liturgy Skills](https://github.com/Paroecia/catholic-liturgy-skills) repository is open source under the MIT license, and I'd love to hear how it works for you.
 
