@@ -4,6 +4,9 @@ resources/
 .hugo_build.lock
 hugo_stats.json
 
+# Python
+__pycache__/
+
 # Other
 .DS_Store
 Thumbs.db
