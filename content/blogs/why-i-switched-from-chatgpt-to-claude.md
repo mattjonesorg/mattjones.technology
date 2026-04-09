@@ -14,7 +14,7 @@ Then last Friday happened, and I went from feeling like I'd made a smart product
 
 ## What Happened
 
-If you haven't been following the story, here's the short version: the Trump administration banned Anthropic (the company that makes Claude) from all federal government use and designated it a "supply chain risk to national security." The Pentagon, or the "Department of War," had given Anthropic a deadline to agree to let the military use Claude for "all lawful purposes" with no restrictions, and Anthropic refused.
+If you haven't been following the story, here's the short version: the Trump administration banned Anthropic (the company that makes Claude) from all federal government use and designated it a "supply chain risk to national security." The "Department of War," had given Anthropic a deadline to agree to let the military use Claude for "all lawful purposes" with no restrictions, and Anthropic refused.
 
 Their red lines were two things, and only two things:
 
