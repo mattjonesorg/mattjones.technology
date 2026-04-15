@@ -432,9 +432,14 @@ def build_text_block(lines: list[str], font_size: int, text_color: str, accent: 
 
 def generate_svg(title: str, theme: str, custom_colors: list[str] | None = None) -> str:
     theme_data = THEMES[theme]
-    colors = custom_colors if custom_colors and len(custom_colors) >= 5 else theme_data["colors"]
-    text_color = theme_data["text"]
-    accent = theme_data["accent"]
+    if custom_colors and len(custom_colors) >= 5:
+        colors = custom_colors
+        accent = custom_colors[3]
+        text_color = custom_colors[4]
+    else:
+        colors = theme_data["colors"]
+        text_color = theme_data["text"]
+        accent = theme_data["accent"]
 
     rng = random.Random(seed_from_title(title))
     pattern = GENERATORS[theme](rng, colors)
