@@ -17,9 +17,11 @@
   <circle cx="1198" cy="268" r="125" fill="#c9a24b" opacity="0.03"/>
   <circle cx="253" cy="458" r="110" fill="#c9a24b" opacity="0.03"/>
   <circle cx="966" cy="369" r="129" fill="#c9a24b" opacity="0.03"/>
-  <rect x="60" y="285" width="1080" height="143" rx="8" fill="black" opacity="0.35"/>
+  <rect x="60" y="270" width="1080" height="175" rx="8" fill="black" opacity="0.35"/>
   <rect x="560" y="286" width="80" height="3" rx="1.5" fill="#c9a24b" opacity="0.7"/>
   <text x="600" y="296" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="64" fill="#f2dd95" letter-spacing="-0.5">Magnifica Humanitas</text>
   <rect x="560" y="326" width="80" height="3" rx="1.5" fill="#c9a24b" opacity="0.7"/>
+  <text x="600" y="360" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="400" font-size="22" fill="#f2dd95" opacity="0.75" letter-spacing="0.3">On Safeguarding the Human Person</text>
+  <text x="600" y="392" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="400" font-size="22" fill="#f2dd95" opacity="0.75" letter-spacing="0.3">in the Age of Artificial Intelligence</text>
   <text x="600" y="606" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="400" font-size="14" fill="#f2dd95" opacity="0.4" letter-spacing="2">mattjones.technology</text>
 </svg>
