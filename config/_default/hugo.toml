@@ -40,6 +40,20 @@ uglyURLs = true
     # disableThemeToggle = true
     # defaultTheme = "light" # dark
 
+  # Giscus comments (https://giscus.app). Comments stay disabled until
+  # repo / repoId / categoryId are filled in. Get these from giscus.app
+  # after enabling GitHub Discussions and installing the giscus app.
+  [params.giscus]
+    repo = "mattjonesorg/mattjones.technology"
+    repoId = "R_kgDOPL_iEQ"
+    category = "Announcements"
+    categoryId = "DIC_kwDOPL_iEc4DB6A_"
+    mapping = "pathname"
+    reactionsEnabled = "1"
+    inputPosition = "bottom"
+    theme = "preferred_color_scheme"
+    lang = "en"
+
   [params.font]
     fontSize = "1rem"
     fontWeight = 400

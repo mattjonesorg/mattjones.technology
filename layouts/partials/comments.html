@@ -1,0 +1,26 @@
+{{/*
+  Giscus comments (https://giscus.app)
+  Renders only when [params.giscus] repo / repoId / categoryId are set,
+  so the site builds cleanly before you've filled them in.
+*/}}
+{{ with .Site.Params.giscus }}
+{{ if and .repo .repoId .categoryId }}
+<div class="giscus"></div>
+<script src="https://giscus.app/client.js"
+        data-repo="{{ .repo }}"
+        data-repo-id="{{ .repoId }}"
+        data-category="{{ .category | default "Announcements" }}"
+        data-category-id="{{ .categoryId }}"
+        data-mapping="{{ .mapping | default "pathname" }}"
+        data-strict="{{ .strict | default "0" }}"
+        data-reactions-enabled="{{ .reactionsEnabled | default "1" }}"
+        data-emit-metadata="0"
+        data-input-position="{{ .inputPosition | default "top" }}"
+        data-theme="{{ .theme | default "preferred_color_scheme" }}"
+        data-lang="{{ .lang | default "en" }}"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+{{ end }}
+{{ end }}
